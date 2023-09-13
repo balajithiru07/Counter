@@ -1,0 +1,31 @@
+.container{
+    position: relative;
+    background-color: aqua;
+    height: 300px;
+}
+.cnt{
+    position:absolute;
+    font-size: 35px;
+}
+.count{
+    margin-left: 130px;
+    font-size: 35px;
+}
+.inc,.dec{
+    margin-top: 75px;
+    background-color:rgb(234, 139, 16);
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sub{
+    margin-top:100px;
+    background-color:rgb(231, 153, 153);
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+h1{
+    background-color: rgb(118, 125, 218);
+    height: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
